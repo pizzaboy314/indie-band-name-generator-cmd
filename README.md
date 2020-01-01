@@ -1,4 +1,4 @@
-command-line version of [this app](https://github.com/pizzaboy314/indie-band-name-generator)
+command-line version of [this gui app](https://github.com/pizzaboy314/indie-band-name-generator)
 ---
 
 # indie-band-name-generator
